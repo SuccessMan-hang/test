@@ -2,7 +2,10 @@ package Controller;
 
 public class UserController {
 
-
+    /**
+     * 快
+     * @return
+     */
     public String getName(){
         return "lucy";
     }
@@ -14,5 +17,9 @@ public class UserController {
 
     public String getSome(){
         return "hello";
+    }
+
+    public String getAge(){
+        return "age is : 15";
     }
 }
