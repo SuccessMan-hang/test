@@ -11,4 +11,8 @@ public class UserController {
 
         System.out.println("hello");
     }
+
+    public String getSome(){
+        return "hello";
+    }
 }
