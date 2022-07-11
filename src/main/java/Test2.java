@@ -7,5 +7,9 @@ public class Test2 {
 
             System.out.println("xxxoiuu");
         }
+
+        for (int i = 0; i < 100; i++) {
+            System.out.println("hello my branch");
+        }
     }
 }
